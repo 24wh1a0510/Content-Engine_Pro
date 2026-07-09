@@ -1,0 +1,9 @@
+.env
+assets/
+__pycache__/
+*.pyc
+*.pyo
+*.mp3
+*.mp4
+*.png
+*.svg
